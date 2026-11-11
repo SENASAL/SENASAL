@@ -22,7 +22,15 @@ I'm **Salif, publicly known as SNAR SAL (SnarSal)**, Founder & CEO of **SENASAL*
 
 We develop concepts for cybersecurity software, artificial intelligence and Web3 products, alongside international trade and commerce activities. The software and service projects described below are at the viability-assessment or design stage; token issuance does not mean a product is available.
 
----
+## Project repositories
+
+- [Cyber Shield Device Token (CSDT)](https://github.com/SENASAL/CSDT)
+- [Real Crypto Value Chain (RCVC)](https://github.com/SENASAL/RCVC)
+- [CyberarIA (CYAI)](https://github.com/SENASAL/CyberarIA)
+- [TriPool (TBL)](https://github.com/SENASAL/TriPool)
+- [Digital Pro Survey (DPS)](https://github.com/SENASAL/Digital-Pro-Survey)
+- [SENASAL (NAL)](https://github.com/SENASAL/NAL)
+
 
 ## 🚀 Projects
 
