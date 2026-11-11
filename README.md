@@ -35,7 +35,7 @@ We develop concepts for cybersecurity software, artificial intelligence and Web3
 | <img src="assets/dps.png" alt="Digital Pro Survey (DPS)" width="48"> | **Digital Pro Survey (DPS)** | Project under viability assessment that would connect businesses and participants through digital surveys, market studies and product or service evaluations. Businesses could launch campaigns to learn what their customers think. Participants could receive rewards for validated answers, in DPS tokens or through traditional payments, subject to campaign rules and feasibility and regulatory review. No live platform exists. *Digital Surveys. Real Insights. Smarter Decisions.* | MultiversX |
 | <img src="assets/senasal-logo.png" alt="SENASAL (NAL SENEGAL)" width="48"> | **SENASAL (NAL SENEGAL)** | The company's own token. | MultiversX |
 
----
+|---|---|---|---|---|---|
 
 ## 🪙 Token status
 
