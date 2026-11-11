@@ -35,14 +35,14 @@ We develop concepts for cybersecurity software, artificial intelligence and Web3
 | <img src="assets/dps.png" alt="Digital Pro Survey (DPS)" width="48"> | **Digital Pro Survey (DPS)** | Project under viability assessment that would connect businesses and participants through digital surveys, market studies and product or service evaluations. Businesses could launch campaigns to learn what their customers think. Participants could receive rewards for validated answers, in DPS tokens or through traditional payments, subject to campaign rules and feasibility and regulatory review. No live platform exists. *Digital Surveys. Real Insights. Smarter Decisions.* | MultiversX |
 | <img src="assets/senasal-logo.png" alt="SENASAL (NAL SENEGAL)" width="48"> | **SENASAL (NAL SENEGAL)** | The company's own token. | MultiversX |
 
-|---|---|---|---|---|---|
+---
 
 ## 🪙 Token status
 
 The following token details and market status are reported by SENASAL. Market availability can change; check the official identifiers and the relevant platform before acting.
 
 | Token | Chain | Official ID | Supply | Liquidity pools | Market status |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | **CSDT** | Waves | `GbZ28if9n6DQqudzmHPRVCjQaXe1X5KX7TNoUmHgP4q9` | 1,000,000,000 | ✅ WX/CSDT · WAVES/CSDT · XTN/CSDT | Tradable on WX Network |
 | **RCVC** | Waves | `E6bmKBwS1CFs3EJ1WrNRzBbMGHitsCwJwf7nyCqWRqYF` | 100,000,000 | ✅ WX/RCVC · WAVES/RCVC · XTN/RCVC | Tradable on WX Network |
 | **NAL (SENASAL)** | MultiversX | `NAL-19d7ed` | 84,000,000 | ⏳ Not created yet | No official sale; no liquidity pools created |
