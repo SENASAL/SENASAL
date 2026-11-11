@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/senasal-company.png" alt="SENASAL company" width="180">
+  <img src="assets/senasal-cover.png.png" alt="SENASAL — Company Overview — CEO SNAR SAL" width="100%">
 </p>
 
 <h1 align="center">SNAR SAL | SENASAL</h1>
